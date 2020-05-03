@@ -2,7 +2,8 @@
 *.tfstate
 *.tfstate.backup
 *.tfstate.lock.info
-
+HP
+index2.html
 # logs
 *.log
 
